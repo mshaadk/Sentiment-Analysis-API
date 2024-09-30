@@ -1,0 +1,3 @@
+fastapi
+textblob
+uvicorn
